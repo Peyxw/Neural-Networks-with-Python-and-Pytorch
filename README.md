@@ -9,7 +9,7 @@ Artificial neural network computing is an advanced computing technology. It is t
 The Pytorch library, like the other deep learning libraries, really is just a library that does operations on tensors.
 # Outputs
 
-
+![img](1.JPG)
 
 # Thanks
 https://pythonprogramming.net/introduction-deep-learning-neural-network-pytorch/<br>
