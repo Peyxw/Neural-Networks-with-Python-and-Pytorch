@@ -14,5 +14,3 @@ The Pytorch library, like the other deep learning libraries, really is just a li
 # Thanks
 https://pythonprogramming.net/introduction-deep-learning-neural-network-pytorch/<br>
 sentdex
-# Owner:
-Peyxw
